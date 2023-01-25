@@ -3,6 +3,8 @@
 
 Repository of information relating to connecting and using Xeni's Travel API.
 
+## Guides
+
 * [OTA](docs/ota.md) 
 * [Travelers](docs/travlers.md) 
 * [Flights](docs/flights.md)  
