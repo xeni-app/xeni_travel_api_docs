@@ -13,3 +13,5 @@ Repository of information relating to connecting and using Xeni's Travel API.
 * [Yachts](docs/yachts.md)
 * [cruises](docs/Cruises.md)
 * [Developer Setup](#developer-setup)
+
+## Q&A
